@@ -1,4 +1,4 @@
 # AmytheIIITIAN
 Through this I am learning github in best way
 <br>
-Author - Amresh Yadav
+Author - Amresh Kumar Yadav
